@@ -1,0 +1,6 @@
+@ImigeByutefire_HostAddress = http://localhost:5243
+
+GET {{ImigeByutefire_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
